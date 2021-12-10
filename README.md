@@ -1,5 +1,5 @@
 # Final-Project
-ML-Anime
+We are team ML-Anime, Team members are Tiancheng Chen and Tianyi Wang.
 ## Data Description
 The data is from Kaggle.
 www.kaggle.com/CooperUnion/anime-recommendations-database
