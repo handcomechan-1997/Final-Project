@@ -1,5 +1,6 @@
 # Final-Project
 We are team ML-Anime, Team members are Tiancheng Chen and Tianyi Wang.
+The final ensemble model is in **ensemble_model.py**
 ## Data Description
 The data is from Kaggle.
 www.kaggle.com/CooperUnion/anime-recommendations-database
