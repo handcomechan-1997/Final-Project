@@ -53,3 +53,5 @@ we save the rules in **ruleBase.pkl**
 ### Ensemble model
 The Ensemble can make recommendation based on Collaborative filtering by reading predicted rating matrix. It make recommendation based on content-based filtering by calling content_based_recommendation.
 It can make recommendation based on association rule by searching rules in rule base.
+User are asked to input his/her id, then we search if we have the previous rating record of this user.If yes, the model can make recommendation based on content-based filtering and collaborative filtering.If no, the user is required to first select some anime he/she like, then we can make recommendation based on content-based filtering and association rule.
+**In other words, the model can make recommendation to both users with previous rating record and users without rating records**
